@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(45, 116, 12);
+    margin: 0;
+}
+
+.containerone {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.containerone {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.containertwo {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.containerthree {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.containerfour {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.containerfive {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.containersix {
+    height: 100vh; 
+    background-color: rgb(142, 238, 158);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 70%;
+    min-height: 50%;
+    padding: 20px 0;
+}
+
+.card {
+    background-color: darkgreen;
+    border: 5px solid black;
+    border-radius: 15px;
+    min-width: 100px;
+    min-height: 100px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 180px;
+}
